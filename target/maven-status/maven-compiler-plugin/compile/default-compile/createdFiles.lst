@@ -1,0 +1,5 @@
+com\acc\prototype\newservices\getValueByKey.class
+com\acc\prototype\newservices\WriteToCache.class
+com\acc\prototype\logging\LogWithTrace.class
+com\acc\prototype\PrototypeApplication.class
+com\acc\prototype\newservices\getAll.class
